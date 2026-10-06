@@ -14,7 +14,6 @@ AGENT_GAP_DATA.csv contains 240 session rows. Blank Correct in Pipedrive primary
 
 License: CC BY 4.0. Attribute Broadcastwell, The Agent Gap, October 2026, and retain the study's dates and limitations. https://creativecommons.org/licenses/by/4.0/
 
-Verified deposit DOI: https://doi.org/10.5281/zenodo.23197361
 
 ## Primary results
 
@@ -26,3 +25,8 @@ Verified deposit DOI: https://doi.org/10.5281/zenodo.23197361
 | Overall | 159 / 209 | 69.9% to 81.4% | 1 / 210 |
 
 Intervals are descriptive binomial intervals for scored observations, not market-wide estimates. The purposive selection and shared vendor, agent and date dependence limit inference. The unknown primary is excluded from scored denominators.
+
+## Archive correction
+
+Version v1.0.1 preserves the original CSV bytes and frozen hashes. Version v1.0 normalized line endings only; its rows and all results are unchanged. See RELEASE_CORRECTION.md for the exact byte-preservation correction. The original release remains available.
+
