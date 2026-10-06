@@ -30,3 +30,5 @@ Intervals are descriptive binomial intervals for scored observations, not market
 
 Version v1.0.1 preserves the original CSV bytes and frozen hashes. Version v1.0 normalized line endings only; its rows and all results are unchanged. See RELEASE_CORRECTION.md for the exact byte-preservation correction. The original release remains available.
 
+
+Verified corrected archive DOI: https://doi.org/10.5281/zenodo.23197560
