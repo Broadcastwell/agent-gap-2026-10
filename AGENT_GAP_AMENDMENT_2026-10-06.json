@@ -1,0 +1,29 @@
+{
+  "owner_ruling_date": "2026-10-06",
+  "applied_utc": "2026-10-06T19:47:14.793746+00:00",
+  "agents": [
+    "ChatGPT Work"
+  ],
+  "primary_expected": 210,
+  "repeat_expected": 30,
+  "cost_usd": 0,
+  "frozen_hashes": {
+    "AGENT_GAP_SET.csv": "a11035069a3cd90fbcff98de56c28cdef82561ec1ec08b633723e044ad041299",
+    "AGENT_GAP_REPEAT_SET.csv": "4e4d6ab02ad56a1ff8e2522eb6dad32719f4719a8d1b0a683844cdd9fb0c6e40"
+  },
+  "original_freeze_preserved": true,
+  "unknown_exception": {
+    "vendor": "Pipedrive",
+    "task": "S2",
+    "run": 1,
+    "correct": null,
+    "reason": "The official EU-language page still served USD. EUR figures in primary S2 are not independently verified; Correct remains unknown and the session is unscored."
+  },
+  "excluded_rows": 5,
+  "excluded_vendors": [
+    "Procore",
+    "Buildertrend"
+  ],
+  "disclosure": "Perplexity Computer ran five sessions on two vendors before its seat showed no credits; they are not part of the study figures.",
+  "disclosure_correction": "Owner wording said one vendor; preserved receipts contain Procore S1/S2/S3 and Buildertrend S1/S2. The factual disclosure uses two."
+}

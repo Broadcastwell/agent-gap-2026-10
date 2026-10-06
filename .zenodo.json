@@ -1,0 +1,20 @@
+{
+  "title": "The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026",
+  "upload_type": "dataset",
+  "description": "Single-agent, single-run study of ChatGPT Work with Cloud browser on a frozen set of 70 B2B software vendors across 14 categories, measured 6 October 2026. Three fixed tasks, 210 primary captures, 30 preselected repeats at least two hours after primary completion. 159 of 209 scored primary sessions pass; Pipedrive primary S2 and repeats S1/S2 have unknown EUR evidence and are unscored. Repeat agreement uses 28 evaluable pairs among all 30. Every number retains its base. See README for method, Wilson intervals, exclusions, limitations and the no-cost re-run dispute route. Incremental spend $0.",
+  "creators": [
+    {
+      "name": "Broadcastwell"
+    }
+  ],
+  "publication_date": "2026-10-06",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI buying agents",
+    "B2B software",
+    "website accessibility",
+    "pricing",
+    "single-agent study"
+  ]
+}

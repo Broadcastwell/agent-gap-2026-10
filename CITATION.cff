@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this dated study and retain its method limitations."
+title: "The Agent Gap: can an AI buying agent find, price and reach B2B software? 70 vendors, 3 tasks, one agent, October 2026"
+type: dataset
+authors:
+  - name: "Broadcastwell"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-10-06"
+repository-code: "https://github.com/Broadcastwell/agent-gap-2026-10"
