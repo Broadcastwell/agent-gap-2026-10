@@ -17,10 +17,11 @@ License: CC BY 4.0. Attribute Broadcastwell, The Agent Gap, October 2026, and re
 ## Primary results
 
 | Task | Pass / scored base | 95 percent Wilson interval | Unknown / captured base |
-| : | : | : | : |
+| --- | --- | --- | --- |
 | S1 | 66 / 70 | 86.2% to 97.8% | 0 / 70 |
 | S2 | 49 / 69 | 59.4% to 80.4% | 1 / 70 |
 | S3 | 44 / 70 | 51.1% to 73.2% | 0 / 70 |
 | Overall | 159 / 209 | 69.9% to 81.4% | 1 / 210 |
 
 Intervals are descriptive binomial intervals for scored observations, not market-wide estimates. The purposive selection and shared vendor, agent and date dependence limit inference. The unknown primary is excluded from scored denominators.
+
